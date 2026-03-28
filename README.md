@@ -57,6 +57,8 @@ Código limpo e seguro
 
 Alta performance em ambientes distribuídos
 
+---
+
 🏢 Experiência Profissional
 Solutis Tecnologias — Engenheiro de Software
 nov/2025 – atual  
@@ -90,6 +92,8 @@ Java/JEE, Spring, JPA, SQL Server e GitLab.
 Análise e Desenvolvimento de Sistemas — FMU / FIAM-FAAM  
 jan/2026 – dez/2027
 
+---
+
 🏅 Certificações
 Introdução ao Domain Driven Design e Padrões de Arquitetura
 
@@ -100,6 +104,8 @@ Desenvolvimento Básico em Java
 Implementação de Banco de Dados – SQL Server
 
 Tecnologia da Informação e Comunicação
+
+---
 
 🌐 Contato & Portfólio
 📍 Mauá – SP
