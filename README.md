@@ -12,6 +12,8 @@ Atualmente trabalho como Engenheiro de Software na Solutis, contribuindo para so
 
 Estudo Análise e Desenvolvimento de Sistemas (UNINOVE), complementando minha experiência prática com base acadêmica sólida.
 
+---
+
 🚀 Tecnologias & Competências
 Backend & Arquitetura
 Java | Quarkus | Spring Boot / MVC / Security
