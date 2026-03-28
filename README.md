@@ -1,6 +1,10 @@
 # https-github.com-Sampaio-Thiago
 Meu perfil profissional
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 👨‍💻 Thiago Sampaio — Software Engineer
 Sou Desenvolvedor Backend especializado no ciclo completo de APIs e microsserviços em Java, Spring, Quarkus e arquiteturas distribuídas. Atuo desde a estruturação de projetos até deploy em AWS, com foco em escalabilidade, resiliência e código limpo.
 
